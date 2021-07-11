@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 /** 
  *
- * @author User
+ * @author Mulya
  */
 public class koneksi1 {
     private static Connection koneksi1;
