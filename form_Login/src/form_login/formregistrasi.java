@@ -11,7 +11,7 @@ import koneksi.conek;
 
 /**
  *
- * @author DELL
+ * @author mulya
  */
 public class formregistrasi extends javax.swing.JFrame {
 
