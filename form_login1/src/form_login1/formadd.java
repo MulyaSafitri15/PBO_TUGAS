@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 import koneksi.koneksi1;
 /**
  *
- * @author DELL
+ * @author Mulya
  */
 public class formadd extends javax.swing.JFrame {
 
