@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 import koneksi.conek;
 /**
  *
- * @author DELL
+ * @author mulya
  */
 public class fromlogin extends javax.swing.JFrame {
 
