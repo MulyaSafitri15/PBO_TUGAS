@@ -10,7 +10,7 @@ import javax.swing.JOptionPane; //untuk mengakses java swing JOptionPane
 
 /**
  *
- * @author oryza
+ * @author mulya
  */
 public class Login extends javax.swing.JFrame { //jframe yang terhubung dengan class login
 
