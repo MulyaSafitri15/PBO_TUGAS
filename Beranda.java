@@ -9,7 +9,8 @@ import javax.swing.JFrame; //untuk mengakses jframe
 
 /**
  *
- * @author oryza
+ * @author mulya
+ 
  */
 public class Beranda extends javax.swing.JFrame { //jframe terhubun langsung dengan class beranda
 
